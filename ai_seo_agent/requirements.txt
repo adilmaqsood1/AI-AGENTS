@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+groq
+crawl4ai
+beautifulsoup4
+pydantic
